@@ -16,3 +16,9 @@ We are working on three things with this assignment:
   * I can experience grading an assignment in github classroom
   
 Thanks!
+
+Edits:
+-----------------------------------------------------------------------------------------------------------
+Name: Michael Jurkoic
+Favorite programming language: Python
+Favorite text editor: Visual Studio
